@@ -1,0 +1,26 @@
+h1 {
+    color: rgb(173, 129, 196);
+    text-align: center;
+    background-color: rgb(230, 198, 203);
+    border-radius: 20px;
+}
+
+p {
+    color: rgb(173, 173, 117);
+    text-align: center;
+}
+
+button {
+    color: black;
+    background-color: pink;
+    align-items: center;
+    display: block;
+    margin: auto;
+    width: 150px;
+    border-radius: 20px;
+}
+
+button:hover {
+    background-color: rgb(173, 129, 196);
+    color: antiquewhite;
+}
